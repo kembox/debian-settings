@@ -1,0 +1,9 @@
+galaxy_info:
+  author: t13ag (kembox)
+  description: Common settings for debian server
+  license: GPLv2
+  min_ansible_version: 2.10
+  platforms:
+      - name: Debian
+  galaxy_tags: []
+dependencies: []
